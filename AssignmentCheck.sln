@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentCheck", "AssignmentCheck\AssignmentCheck.csproj", "{4956F867-C484-4CF9-9837-27F70D9D2B47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentCheckTests", "AssignmentCheckTests\AssignmentCheckTests.csproj", "{72024199-6FCF-4816-869E-93BDC9E91D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentCheckerXTests", "AssignmentCheckerXTests\AssignmentCheckerXTests.csproj", "{3275A147-5494-465E-9245-65E104A34E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{72024199-6FCF-4816-869E-93BDC9E91D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72024199-6FCF-4816-869E-93BDC9E91D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72024199-6FCF-4816-869E-93BDC9E91D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3275A147-5494-465E-9245-65E104A34E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3275A147-5494-465E-9245-65E104A34E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3275A147-5494-465E-9245-65E104A34E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3275A147-5494-465E-9245-65E104A34E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
